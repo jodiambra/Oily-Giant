@@ -1,4 +1,6 @@
 # Oily-Giant
+![image](https://user-images.githubusercontent.com/115895428/216845114-ca6cd56f-9a59-40cc-9340-1f62b74a04cd.png)
+
 
 ## Purpose
 The purpose of this project is to find the best location for a our customer, OilyGiant, to place a new well for mining oil. We are given oil well parameters in three distinct regions, upon which we will use to create our linear regression model. The model will predict the volume of reserves in the new wells, and the region with the highest total profit will be chosen for the new well. 
