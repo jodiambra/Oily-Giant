@@ -7,3 +7,6 @@ The purpose of this project is to find the best location for a our customer, Oil
 
 ## Conclusion
 Considering the three datasets, we will suggest OilGiant to start a new site in Region 1. Region 1 has the greatest profit margin, as the range of well reserve volume is better than those of the other regions, due to the higher lower bound. In addition, the chance of losses in Region 1 is around 1%, which is extremely low. Therefore, the chances of randomly picking 200 sites that are extremely profitable will be more likely in Region 1. As we are focusing on as subsample of the 200 most profitable wells out of a 500 well sample, we limit our chance of loss, rather than just randomly picking wells. Overall, our model will perform well when predicting new sites to implement, and predicting the most profitable wells, given the same features we have in our model. 
+
+
+https://jodiambra.github.io/Oily-Giant-Profit-Predictions/
